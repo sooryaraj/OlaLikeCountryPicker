@@ -109,7 +109,7 @@ class CountryListView extends StatefulWidget {
     this.flagWidth = 25,
     this.flagHeight = 25,
     this.showFlag = true,
-    this.showDialCode = true,
+    this.showDialCode = false,
     this.dialCodePrefix = '+',
     this.itemTitleStyle,
     this.dialCodeStyle,
